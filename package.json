@@ -1,0 +1,14 @@
+{
+  "name": "webmonitor",
+  "version": "0.1.0",
+  "description": "Monitor change of web page, supporting RegEx search pattern",
+  "main": "webmonitor.js",
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Cheung",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
